@@ -21,11 +21,11 @@
 ## 使用方法
 
 ```
-
 npm i ionic2-wechat --save
-
-
 ```
+
+>  详细使用方法请参考[wechat.js](https://github.com/xu-li/cordova-plugin-wechat/blob/develop/www/wechat.js)
+
 
 #### 欢迎关注我的微信公众号或头条号`全栈弄潮儿` ，获取更多学习资源及技术文章等
 
