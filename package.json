@@ -1,0 +1,20 @@
+{
+  "name": "ionic2-wechat",
+  "version": "1.0.0",
+  "description": "Ionic Native - Native plugins for ionic apps",
+  "main": "index.js",
+  "module": "index.js",
+  "typings": "index.d.ts",
+  "keyword": "ionic2-wechat,@ionic-native/wechat,wechat",
+  "author": "alex",
+  "license": "MIT",
+  "peerDependencies": {
+    "@ionic-native/core": "^4.11.0",
+    "@angular/core": "*",
+    "rxjs": "^5.5.11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alex-0407/ionic2-wechat.git"
+  }
+}
