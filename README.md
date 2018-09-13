@@ -16,6 +16,8 @@
 
 >  传送门3：[ionic2-janalytics(ionic native插件)](https://github.com/Alex-0407/ionic2-janalytics)
 
+>  传送门4：[微信小程序——前端排行榜](https://github.com/Alex-0407/weapp-web-rank)
+
 ## 使用方法
 
 ```
@@ -29,4 +31,4 @@ npm i ionic2-wechat --save
 
 * 微信公众号二维码，扫一扫或者搜索"全栈弄潮儿"即可关注
 
-<img src="https://github.com/alex-0407/sinacloud-node/blob/master/fullstack-8cm.jpg" width="320px" style="display:inline;">
+<img src="https://github.com/alex-0407/weapp-web-rank/blob/master/images/qrcode.png" width="320px" style="display:inline;">
